@@ -1,0 +1,1 @@
+I love competitive programming!
